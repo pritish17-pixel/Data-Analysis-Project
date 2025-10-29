@@ -62,7 +62,17 @@ The dataset contains details of crowdfunding campaigns such as:
 - Project name, category, goal, and pledged amount  
 - State (successful, failed, canceled, etc.)  
 - Number of backers  
-- Country and launch dates  
+- Country and launch dates
+
+
+---
+## 📦 Dataset
+
+Due to GitHub's file size limit, the raw data files are hosted externally.
+
+You can download the complete dataset (zipped) from Google Drive:
+
+🔗 [Download Crowdfunding Data (ZIP)](https://drive.google.com/uc?export=download&id=124Z8TkRofFi0Ckewl2oLI5ByLCAdO3NF)
 
 ---
 
