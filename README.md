@@ -60,4 +60,25 @@ The insights are visualized through **Power BI dashboards**, showing outcomes, c
 ## 🗂️ Dataset Information
 The dataset contains details of crowdfunding campaigns such as:
 - Project name, category, goal, and pledged amount  
-- State (successful, failed
+- State (successful, failed, canceled, etc.)  
+- Number of backers  
+- Country and launch dates  
+
+---
+
+## 🚀 Conclusion
+This analysis highlights the **key success drivers** in crowdfunding platforms, helping future campaign creators to:
+- Choose the right goal range  
+- Focus on trending categories  
+- Target successful regions  
+
+---
+
+## 👤 Author
+**Name:** Pritish Mishra  
+**GitHub:** [pritish17-pixel](https://github.com/pritish17-pixel)  
+**Role:** Data Analyst Trainee | Data Visualization Enthusiast  
+
+---
+
+⭐ *If you found this project useful, don’t forget to give it a star on GitHub!*
